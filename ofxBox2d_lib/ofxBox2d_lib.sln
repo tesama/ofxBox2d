@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ofxBox2d_lib", "ofxBox2d_lib.vcxproj", "{702E8CD6-C65F-41D4-BECA-3BF8A5C8C7D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702E8CD6-C65F-41D4-BECA-3BF8A5C8C7D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{702E8CD6-C65F-41D4-BECA-3BF8A5C8C7D2}.Debug|Win32.Build.0 = Debug|Win32
+		{702E8CD6-C65F-41D4-BECA-3BF8A5C8C7D2}.Release|Win32.ActiveCfg = Release|Win32
+		{702E8CD6-C65F-41D4-BECA-3BF8A5C8C7D2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
